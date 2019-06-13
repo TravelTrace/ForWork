@@ -1,0 +1,14 @@
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\hostpolicy.dll
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\hostfxr.dll
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\HomeWork.exe
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\HomeWork.deps.json
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\HomeWork.runtimeconfig.json
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\HomeWork.runtimeconfig.dev.json
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\HomeWork.dll
+H:\HomeWork\HomeWork\bin\release\netcoreapp2.0\win7-x64\HomeWork.pdb
+H:\HomeWork\HomeWork\obj\release\netcoreapp2.0\win7-x64\HomeWork.csprojAssemblyReference.cache
+H:\HomeWork\HomeWork\obj\release\netcoreapp2.0\win7-x64\HomeWork.csproj.CoreCompileInputs.cache
+H:\HomeWork\HomeWork\obj\release\netcoreapp2.0\win7-x64\HomeWork.AssemblyInfoInputs.cache
+H:\HomeWork\HomeWork\obj\release\netcoreapp2.0\win7-x64\HomeWork.AssemblyInfo.cs
+H:\HomeWork\HomeWork\obj\release\netcoreapp2.0\win7-x64\HomeWork.dll
+H:\HomeWork\HomeWork\obj\release\netcoreapp2.0\win7-x64\HomeWork.pdb
